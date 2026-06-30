@@ -1,6 +1,6 @@
 # todo-app
-一个todo小项目：spec-kit+cudeBuddy 规约驱动开发，全程一行代码没写
-也可以spec-kit+claude
+全程ai开发：一个todo小项目，spec-kit+cudeBuddy(也可以spec-kit+claude) 规约驱动开发，全程一行代码没写
+
 
 ### 安装
 ```
